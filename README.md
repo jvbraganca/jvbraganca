@@ -9,4 +9,5 @@
 
 _________________
 
-[![João's github stats](https://github-readme-stats.vercel.app/api?username=jvbraganca)](https://github.com/anuraghazra/github-readme-stats)
+[![João's github stats](https://github-readme-stats.vercel.app/api?username=jvbraganca&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
