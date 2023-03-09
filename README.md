@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 200px;" />  
+</p>
 <h1 align="center">Hi 👋, I'm João Bragança</h1>
 <code align="center">At the age of 15 years old, I started programming on a Belgium NPO for aviation enthusiasts and had a direct impact on the development of WEB systems for more than 1000+ simultaneous clients. I developed scalable applications by using agile methodologies (Kanban, SCRUM). I am a professional focused on product scalability, data orientation, and system flow for user retention. I consider myself very adaptable, results-oriented, methodical, and able to work with different and new technologies. I am a learner for life and also enjoy passing my learnings to team members.</code>
 
