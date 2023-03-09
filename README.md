@@ -4,13 +4,6 @@
 <h1 align="center">Hi 👋, I'm João Bragança</h1>
 <code align="center">At the age of 15 years old, I started programming on a Belgium NPO for aviation enthusiasts and had a direct impact on the development of WEB systems for more than 1000+ simultaneous clients. I developed scalable applications by using agile methodologies (Kanban, SCRUM). I am a professional focused on product scalability, data orientation, and system flow for user retention. I consider myself very adaptable, results-oriented, methodical, and able to work with different and new technologies. I am a learner for life and also enjoy passing my learnings to team members.</code>
 
-<div><br /></div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jvbraganca&theme=tokyonight" alt="jvbraganca" />
-  </a>
-</p>
 <p>- 🔭 I'm currently studying Mechatronics Engineering at UFMG and diving into the world of Coding</p>
 <p>- 🌱 I’m currently learning **GoLang**</p>
 <p>- 👯 I’m looking to collaborate on opensource projects</p>
@@ -69,10 +62,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
+
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvbraganca&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jvbraganca" />
+  <div><br></div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvbraganca&show_icons=true&theme=tokyonight&count_private=true" alt="jvbraganca" />
 </p>
 
+<div><br /></div>
 
-[![João's github stats](https://github-readme-stats.vercel.app/api?username=jvbraganca&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jvbraganca&theme=tokyonight" alt="jvbraganca" />
+  </a>
+</p>
